@@ -63,4 +63,8 @@ button:hover{
     background-color: goldenrod;
     border: 3px solid darkgoldenrod;
 }
-
+@media(max-width:800px){
+.container{
+    width:80%
+    }
+}
